@@ -1,6 +1,4 @@
-
-
-# Initial dev environment setup
+# Initial dev environment setup second run attempt
 data "aws_caller_identity" "current" {}
 
 module "vpc" {
